@@ -108,6 +108,17 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 
 <br/>
 
+<!-- LEETCODE STATS -->
+## 🧩 &nbsp;LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/aarvind-dev">
+    <img width="60%" src="https://leetcard.jacoblin.cool/aarvind-dev?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+<br/>
+
 <!-- CONNECT -->
 ## 🤝 &nbsp;Let's Connect
 
