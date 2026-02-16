@@ -215,54 +215,6 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
   <img width="100%" alt="line"/>
 </picture>
 
-<!-- ══════════════════ TROPHIES ══════════════════ -->
-
-### 🏆  Achievements
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=aarvnd&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=aarvnd&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"/>
-  <img alt="trophies"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-  <img width="100%" alt="line"/>
-</picture>
-
-<!-- ══════════════════ DEV HUMOR ══════════════════ -->
-
-### 😄  Dev Humor
-
-<a href="https://github.com/ABSphreak/readme-jokes">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=gotham&qColor=%23a5b4fc&aColor=%2394a3b8&borderColor=%231e293b&bgColor=%230d1117&textColor=%23e2e8f0"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=default&qColor=%234338ca&aColor=%23475569&borderColor=%23e2e8f0&bgColor=%23ffffff&textColor=%231e293b"/>
-    <img alt="joke"/>
-  </picture>
-</a>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="140" alt="bug"/>
-&nbsp;
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="140" alt="works"/>
-&nbsp;
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" height="140" alt="deploy"/>
-
-<sub>🐛 Fixing bugs at 3 AM  •  🤷 “Works on my machine”  •  🔥 Friday deploys</sub>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-  <img width="100%" alt="line"/>
-</picture>
-
 <!-- ══════════════════ CONNECT ══════════════════ -->
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="22"/>  Connect
