@@ -109,17 +109,9 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode&theme=light"/>
   <img alt="stack-2"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light"/>
-  <img alt="stack-3"/>
 </picture>
 
 <br/><br/>
@@ -147,9 +139,9 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 
 <!-- ══════════════════ STREAK STATS ══════════════════ -->
 
-### 🔥  Streak Stats
+### 🔥  Streak & Contributions
 
-<!-- STREAK CARD - shows Total Contributions, Current Streak, Longest Streak -->
+<!-- STREAK CARD — auto shows: Total Contributions | Current Streak | Longest Streak -->
 
 <a href="https://github.com/aarvnd">
   <picture>
@@ -161,11 +153,15 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 
 <br/><br/>
 
-<!-- INDIVIDUAL STREAK BADGES -->
+<!-- STREAK DETAILED — compact date range view -->
 
-<img src="https://img.shields.io/badge/🔥_Current_Streak-Keep_It_Going!-6366f1?style=for-the-badge&labelColor=0f172a" alt="Current Streak"/>
-<img src="https://img.shields.io/badge/📅_Total_Contributions-All_Time-818cf8?style=for-the-badge&labelColor=0f172a" alt="Total Contributions"/>
-<img src="https://img.shields.io/badge/🏆_Longest_Streak-Personal_Best-a5b4fc?style=for-the-badge&labelColor=0f172a" alt="Longest Streak"/>
+<a href="https://github.com/aarvnd">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aarvnd&hide_border=true&background=0d1117&stroke=1e293b&ring=6366f1&fire=a5b4fc&currStreakLabel=a5b4fc&sideLabels=818cf8&dates=94a3b8&currStreakNum=e0e7ff&sideNums=e0e7ff&type=png&mode=weekly"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=aarvnd&hide_border=true&background=ffffff&stroke=e2e8f0&ring=4f46e5&fire=6366f1&currStreakLabel=4338ca&sideLabels=4338ca&dates=64748b&currStreakNum=1e293b&sideNums=1e293b&type=png&mode=weekly"/>
+    <img alt="weekly"/>
+  </picture>
+</a>
 
 <br/><br/>
 
