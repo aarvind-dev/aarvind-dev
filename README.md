@@ -26,8 +26,6 @@
 
 <br/><br/>
 
-<!-- DIVIDER -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
@@ -109,9 +107,17 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github&theme=light"/>
   <img alt="stack-2"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light"/>
+  <img alt="stack-3"/>
 </picture>
 
 <br/><br/>
@@ -137,29 +143,15 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
   <img width="100%" alt="line"/>
 </picture>
 
-<!-- ══════════════════ STREAK STATS ══════════════════ -->
+<!-- ══════════════════ STREAK ══════════════════ -->
 
 ### 🔥  Streak & Contributions
 
-<!-- STREAK CARD — auto shows: Total Contributions | Current Streak | Longest Streak -->
-
 <a href="https://github.com/aarvnd">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aarvnd&hide_border=true&background=0d1117&stroke=1e293b&ring=6366f1&fire=a5b4fc&currStreakLabel=a5b4fc&sideLabels=818cf8&dates=94a3b8&currStreakNum=e0e7ff&sideNums=e0e7ff"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=aarvnd&hide_border=true&background=ffffff&stroke=e2e8f0&ring=4f46e5&fire=6366f1&currStreakLabel=4338ca&sideLabels=4338ca&dates=64748b&currStreakNum=1e293b&sideNums=1e293b"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aarvnd&hide_border=true&mode=daily&background=0d1117&stroke=1e293b&ring=6366f1&fire=a5b4fc&currStreakLabel=a5b4fc&sideLabels=818cf8&dates=94a3b8&currStreakNum=e0e7ff&sideNums=e0e7ff"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=aarvnd&hide_border=true&mode=daily&background=ffffff&stroke=e2e8f0&ring=4f46e5&fire=6366f1&currStreakLabel=4338ca&sideLabels=4338ca&dates=64748b&currStreakNum=1e293b&sideNums=1e293b"/>
     <img alt="streak"/>
-  </picture>
-</a>
-
-<br/><br/>
-
-<!-- STREAK DETAILED — compact date range view -->
-
-<a href="https://github.com/aarvnd">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aarvnd&hide_border=true&background=0d1117&stroke=1e293b&ring=6366f1&fire=a5b4fc&currStreakLabel=a5b4fc&sideLabels=818cf8&dates=94a3b8&currStreakNum=e0e7ff&sideNums=e0e7ff&type=png&mode=weekly"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=aarvnd&hide_border=true&background=ffffff&stroke=e2e8f0&ring=4f46e5&fire=6366f1&currStreakLabel=4338ca&sideLabels=4338ca&dates=64748b&currStreakNum=1e293b&sideNums=1e293b&type=png&mode=weekly"/>
-    <img alt="weekly"/>
   </picture>
 </a>
 
@@ -175,8 +167,6 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"/>  GitHub Analytics
 
-<!-- STATS -->
-
 <a href="https://github.com/aarvnd">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=aarvnd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=818cf8&text_color=cbd5e1&ring_color=6366f1&include_all_commits=true&count_private=true"/>
@@ -187,8 +177,6 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 
 <br/><br/>
 
-<!-- TOP LANGS -->
-
 <a href="https://github.com/aarvnd">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aarvnd&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=cbd5e1&langs_count=8"/>
@@ -198,8 +186,6 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 </a>
 
 <br/><br/>
-
-<!-- CONTRIBUTION GRAPH -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aarvnd&bg_color=0d1117&color=a5b4fc&line=6366f1&point=e0e7ff&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph"/>
@@ -219,9 +205,9 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 
 ### 🏆  Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aarvnd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophies](https://github-trophies.vercel.app/?username=aarvnd)
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
